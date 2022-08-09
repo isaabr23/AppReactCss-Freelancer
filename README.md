@@ -11,3 +11,5 @@
 - Flex Grid
 - Flex Box
 - Iconos Mui
+
+<img src="./src/img/hero.jpg" alt="My logo"/>
