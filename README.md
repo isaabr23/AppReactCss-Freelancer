@@ -12,4 +12,4 @@
 - Flex Box
 - Iconos Mui
 
-<img src="./src/img/hero.jpg" alt="My logo"/>
+<img src="./src/img/webApp.jpg" alt="My logo"/>
